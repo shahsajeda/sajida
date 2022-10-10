@@ -1,0 +1,2 @@
+print("sajida sha")
+n=int(input("enter no"))
